@@ -94,9 +94,7 @@ body {
 
 @media screen and (max-width: 1200px) {
     .container {
-        min-height: 130vh;
-        margin-top: 2rem;
-        margin-bottom: 2.5rem;
+        min-height: 110vh;
     }
     
     .stats-container {
